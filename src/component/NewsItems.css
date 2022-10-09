@@ -1,0 +1,25 @@
+.btn-dark{
+    color: yellow;
+}
+.card-body{
+    min-height: 300px;
+}
+.card-img-top{
+    max-height: 200px;
+}
+.badge{
+    /* display: 'flex',
+    justifyContent: 'flex-end',
+    position: 'absolute',
+    right: '0';
+     */
+    
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    background-color: black;
+    color: yellow;
+    border: 1px solid white;
+    box-shadow: 2px 2px yellow;
+}
